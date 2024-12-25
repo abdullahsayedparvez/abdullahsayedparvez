@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdullah sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah sayed" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullah_oo27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_oo27" height="30" width="40" /></a>
-<a href="https://medium.com/@abdullahsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdullahsyed" height="30" width="40" /></a>
+<a href="[https://medium.com/@abdullahsyed](https://medium.com/@abdullahsyed940)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdullahsyed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
